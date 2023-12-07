@@ -1,5 +1,5 @@
 # Generalized Importance Weighting (GIW)
-Code for the NeurIPS'23 spotlight paper "Generalizing Importance Weighting to A Universal Solver for Distribution Shift Problems".
+Code for the paper "Generalizing Importance Weighting to A Universal Solver for Distribution Shift Problems". This paper was selected for spotlight presentation at NeurIPS'23.
 
 ## Requirements
 The code was developed and tested based on the following environment.
