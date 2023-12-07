@@ -14,7 +14,9 @@ The code was developed and tested based on the following environment.
 
 ## Quick start
 The code shows a demo of 10-digit classification on Color-MNIST dataset, which is derived from MNIST where the digits in training data are colored in red while digits in test/validation data are colored in red/blue/green evenly. A plot of the training and validation data in Color-MNIST dataset is shown below.
-![image info](./plot_color_mnist.png=500x)
 
+<img src="./plot_color_mnist.png" width="550">
+
+After installing the dependencies, you can simply run the demo by `python giw.py`.
 
 ## Demo results
