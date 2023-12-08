@@ -27,4 +27,9 @@ The code shows a demo of 10-digit classification on Color-MNIST dataset, which i
 
 After installing the dependencies, you can simply run the demo by `python giw.py`.
 
-## Demo results
+## Example result
+After running `python giw.py`, a output figure and text file of test accurary are made in `./output/` by default. 
+
+## Citation
+If the code is useful in your research, please cite the following:  
+Tongtong Fang, Nan Lu, Gang Niu, Masashi Sugiyama. Generalizing Importance Weighting to A Universal Solver for Distribution Shift Problems. In NeurIPS, 2023.
